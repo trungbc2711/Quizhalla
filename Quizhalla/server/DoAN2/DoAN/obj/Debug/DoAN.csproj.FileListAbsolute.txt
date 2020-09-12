@@ -1,0 +1,20 @@
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\DoAN2\DoAN\bin\Debug\DoAN.exe.config
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\DoAN2\DoAN\bin\Debug\DoAN.exe
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\DoAN2\DoAN\bin\Debug\DoAN.pdb
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\DoAN2\DoAN\obj\Debug\DoAN.Form1.resources
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\DoAN2\DoAN\obj\Debug\DoAN.Properties.Resources.resources
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\DoAN2\DoAN\obj\Debug\DoAN.csproj.GenerateResource.cache
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\DoAN2\DoAN\obj\Debug\DoAN.csproj.CoreCompileInputs.cache
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\DoAN2\DoAN\obj\Debug\DoAN.exe
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\DoAN2\DoAN\obj\Debug\DoAN.pdb
+E:\UITK13\SECOND YEAR 2019-2020\4thsemester\NT106.K21.ANTT\Đồ án LTMCB\DoAN2\DoAN\obj\Debug\DoAN.csprojAssemblyReference.cache
+D:\Code\server2\DoAN2\DoAN\bin\Debug\DoAN.exe.config
+D:\Code\server2\DoAN2\DoAN\bin\Debug\DoAN.exe
+D:\Code\server2\DoAN2\DoAN\bin\Debug\DoAN.pdb
+D:\Code\server2\DoAN2\DoAN\obj\Debug\DoAN.csprojAssemblyReference.cache
+D:\Code\server2\DoAN2\DoAN\obj\Debug\DoAN.Form1.resources
+D:\Code\server2\DoAN2\DoAN\obj\Debug\DoAN.Properties.Resources.resources
+D:\Code\server2\DoAN2\DoAN\obj\Debug\DoAN.csproj.GenerateResource.cache
+D:\Code\server2\DoAN2\DoAN\obj\Debug\DoAN.csproj.CoreCompileInputs.cache
+D:\Code\server2\DoAN2\DoAN\obj\Debug\DoAN.exe
+D:\Code\server2\DoAN2\DoAN\obj\Debug\DoAN.pdb
